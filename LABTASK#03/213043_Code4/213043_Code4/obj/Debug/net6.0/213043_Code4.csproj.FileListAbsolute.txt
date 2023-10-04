@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\bin\Debug\net6.0\213043_Code4.exe
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\bin\Debug\net6.0\213043_Code4.deps.json
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\bin\Debug\net6.0\213043_Code4.runtimeconfig.json
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\bin\Debug\net6.0\213043_Code4.dll
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\bin\Debug\net6.0\213043_Code4.pdb
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.AssemblyInfo.cs
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.dll
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\refint\213043_Code4.dll
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.pdb
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\213043_Code4.genruntimeconfig.cache
+C:\Users\HP\source\repos\213043_Code4\213043_Code4\obj\Debug\net6.0\ref\213043_Code4.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\bin\Debug\net6.0\213043_Code5.exe
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\bin\Debug\net6.0\213043_Code5.deps.json
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\bin\Debug\net6.0\213043_Code5.runtimeconfig.json
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\bin\Debug\net6.0\213043_Code5.dll
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\bin\Debug\net6.0\213043_Code5.pdb
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.AssemblyInfo.cs
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.dll
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\refint\213043_Code5.dll
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.pdb
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\213043_Code5.genruntimeconfig.cache
+C:\Users\HP\source\repos\213043_Code5\213043_Code5\obj\Debug\net6.0\ref\213043_Code5.dll
